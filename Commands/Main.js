@@ -1,11 +1,11 @@
 /* 
  Sew Queen Whatsapp Bot                       
 
- Telegram: t.me/RavinduManoj
- Facebook: https://www.facebook.com/ravindu.manoj.79
+ Telegram: t.me
+ Facebook: https://www.facebook.com
  Licensed under the  GPL-3.0 License;
 
- Coded By Ravindu Manoj
+ Coded By KI SAMA
 */ 
 let DataPack = require('sew-queen-pro');
 let SewQueen = require('sew-queen-pro/sources/dc/handler');
